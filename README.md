@@ -7,7 +7,7 @@
 
 ### 🔬 What I'm currently working on:
 - Developing **Finite Element Method (FEM) solvers** for structural analysis
-- Advanced **Structural Dynamics** and modal analysis
+- **Structural Dynamics** and modal analysis
 - **Design Optimization** techniques
 - Nonlinear FEM methods (Picard & Newton-Raphson iterations)
 
