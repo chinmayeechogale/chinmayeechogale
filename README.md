@@ -7,11 +7,7 @@
 ---
 
 ### 🔬 What I'm currently working on:
-- 🔧 Developing **Finite Element Method (FEM) solvers** for structural analysis
-- 📊 **2D Plate Bending (FSDT)**, Geometric Nonlinearity, and Beam Analysis
-- 🌊 Exploring **Fluid-Structure Interaction** problems
-
-### 🌱 What I'm currently learning:
+- Developing **Finite Element Method (FEM) solvers** for structural analysis
 - Advanced **Structural Dynamics** and modal analysis
 - **Design Optimization** techniques
 - Nonlinear FEM methods (Picard & Newton-Raphson iterations)
@@ -28,8 +24,8 @@
 - Beam and Plate Theory
 
 ### 📫 How to reach me:
-- Email: [your-email@tamu.edu](mailto:your-email@tamu.edu)
-- LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
+- Email: [your-email@tamu.edu](chinmayeechogale@gmail.com)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/chinmayee-chogale-0b526a258/)
 
 ### ⚡ Fun fact:
 I'm obsessed with building computational tools that solve real-world engineering problems!
