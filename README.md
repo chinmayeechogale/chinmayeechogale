@@ -2,7 +2,6 @@
 
 ### A Master's Student at Texas A&M University passionate about FEM, Structural Dynamics, Design and Design Optimization
 
-![Profile views](https://komarev.com/ghpvc/?username=chinmayeechogale&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
