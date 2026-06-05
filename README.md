@@ -23,7 +23,7 @@
 - Beam and Plate Theory
 
 ### 📫 How to reach me:
-- Email: [your-email@tamu.edu](chinmayeechogale@gmail.com)
+- Email: [chinmayeechogale@gmail.com](chinmayeechogale@gmail.com)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/chinmayee-chogale-0b526a258/)
 
 ### ⚡ Fun fact:
