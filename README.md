@@ -26,8 +26,6 @@
 - Email: [chinmayeechogale@gmail.com](chinmayeechogale@gmail.com)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/chinmayee-chogale-0b526a258/)
 
-### ⚡ Fun fact:
-I'm obsessed with building computational tools that solve real-world engineering problems!
 
 ---
 
